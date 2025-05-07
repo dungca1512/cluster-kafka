@@ -316,7 +316,7 @@ class MongoToKafkaMonitor:
     
     def producer_task(self, data: List[Dict[str, Any]], producer_id: int) -> Dict[str, Any]:
         """
-        Hàm được chạy trong từng thread để gửi dữ liệu 
+        Hàm được chạy trong từng thread để gửi dữ liệu
         
         Args:
             data: Dữ liệu cần gửi
