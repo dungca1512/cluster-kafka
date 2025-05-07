@@ -1,0 +1,9 @@
+confluent-kafka==2.2.0
+python-dotenv==1.0.0
+email-validator==2.0.0
+loguru==0.7.0
+firebase-admin
+psycopg2-binary
+redis
+boto3
+firebase-admin
